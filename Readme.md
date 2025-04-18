@@ -4,7 +4,6 @@ Une application web simple pour convertir des devises en temps réel, développ�
 
 ## 🚀 Fonctionnalités
 
-- Interface utilisateur responsive et intuitive
 - Conversion en temps réel entre différentes devises
 - Sélection dynamique des devises (ex: USD, EUR, GBP, JPY, etc.)
 
