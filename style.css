@@ -1,0 +1,54 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #eee;
+}
+
+.base {
+	display: flex;
+	width: 25%;
+	height: auto;
+	align-self: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 100px;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 5%;
+}
+
+img.logo {
+	width: 200px;
+	height: 82px;
+	align-self: center;
+	margin: 50px;
+}
+
+.base .devise {
+	margin: 10px;
+}
+
+.base .devise select, input {
+	height: 50px;
+}
+.base .devise select {
+	width: 60px;
+	color: black;
+	background-color: #eee;
+	margin-right: 8%;
+	border: none;
+	padding: 5px;
+	font-size: medium;
+}
+
+.base .devise input {
+	width: 55%;
+	color: black;
+	margin-right: 20px;
+	font-size: large;
+}
