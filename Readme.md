@@ -14,7 +14,9 @@ Une application web simple pour convertir des devises en temps réel, développ�
 - CSS3
 - JavaScript
 
+## Demo
 
+[Voir l'aperçu](https://patricklalaina.github.io/currency_converter/)
 
 ## 🛠️ Installation
 
